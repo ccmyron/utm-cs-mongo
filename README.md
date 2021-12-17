@@ -13,7 +13,7 @@ secure).
 ## How to use
 ### Prerequisites
 • Intellij or other Java IDE's  
-• JDK 11+
+• JDK 11+  
 • Docker
 
 ### Pre-config
